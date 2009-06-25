@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2688
+
+On VIM, it uses dark colors.
+On GVIM, it uses bright colors without bold, italic nor 
+underline font styles (except for spell checking and 
+some GUI elements).
+Only standard (for all languages) highlight-groups are set.
+This colorscheme _should_ look nice everywhere.
